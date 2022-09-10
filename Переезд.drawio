@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-09-10T12:03:36.344Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_4) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.1 Safari/605.1.15" etag="tpHEsNUhbi-MqZkybCsZ" version="20.3.0" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2022-09-10T12:04:54.847Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_4) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.1 Safari/605.1.15" etag="N4wsseSweQzdtSq4jrC3" version="20.3.0" type="github" pages="3">
   <diagram id="sxxfvy0bNG68BdXFm14h" name="Квартира">
     <mxGraphModel dx="614" dy="541" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -50,7 +50,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="ibor_fl8Fku6ZiQpDdOs" name="Дом">
-    <mxGraphModel dx="501" dy="1684" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2360" dy="2715" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -226,10 +226,10 @@
           <mxGeometry x="568" y="-795" width="330" height="336" as="geometry" />
         </mxCell>
         <mxCell id="tyKPnPFm-kh5y-eaX30H-25" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;shape=mxgraph.floorplan.window;strokeWidth=2;rotation=0;" parent="bq3f7KAdfnJjP58GS2yv-6" vertex="1">
-          <mxGeometry x="212" y="-5" width="100" height="10" as="geometry" />
+          <mxGeometry x="212" y="-5" width="103" height="10" as="geometry" />
         </mxCell>
         <mxCell id="tyKPnPFm-kh5y-eaX30H-26" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;shape=mxgraph.floorplan.window;strokeWidth=2;rotation=0;" parent="bq3f7KAdfnJjP58GS2yv-6" vertex="1">
-          <mxGeometry x="40" y="-5" width="100" height="10" as="geometry" />
+          <mxGeometry x="40" y="-5" width="103" height="10" as="geometry" />
         </mxCell>
         <mxCell id="tyKPnPFm-kh5y-eaX30H-43" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;shape=mxgraph.floorplan.chair;shadow=0;direction=south;rounded=1;glass=0;sketch=0;strokeWidth=5;fillColor=#60a917;fontColor=#ffffff;strokeColor=#2D7600;" parent="bq3f7KAdfnJjP58GS2yv-6" vertex="1">
           <mxGeometry x="212" y="34" width="52" height="40" as="geometry" />
