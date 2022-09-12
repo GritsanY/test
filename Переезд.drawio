@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-09-12T07:32:12.958Z" agent="5.0 (Windows)" etag="sE7wcj72myg4dLc4b3ME" version="20.3.0" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2022-09-12T07:33:27.647Z" agent="5.0 (Windows)" etag="mwhqsxR4bNsYXGXGCNxd" version="20.3.0" type="github" pages="3">
   <diagram id="sxxfvy0bNG68BdXFm14h" name="Квартира">
     <mxGraphModel dx="1141" dy="849" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -198,29 +198,17 @@
         <mxCell id="FplFf33kLEnZ9xWV7-50-3" value="Комод" style="verticalLabelPosition=middle;html=1;verticalAlign=middle;align=center;shape=mxgraph.floorplan.dresser;rounded=1;shadow=0;glass=0;sketch=0;strokeWidth=1;fillColor=#e51400;fontColor=#ffffff;strokeColor=#B20000;labelPosition=center;rotation=-90;perimeterSpacing=0;comic=0;enumerate=0;treeMoving=0;resizeHeight=0;backgroundOutline=0;collapsible=0;" parent="bq3f7KAdfnJjP58GS2yv-7" vertex="1">
           <mxGeometry x="-10" y="142" width="81" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="WHgqw9ksYdn4Qy6jHKwT-37" value="" style="group" vertex="1" connectable="0" parent="bq3f7KAdfnJjP58GS2yv-7">
-          <mxGeometry x="-60" y="-250" width="140" height="121" as="geometry" />
-        </mxCell>
-        <mxCell id="WHgqw9ksYdn4Qy6jHKwT-34" value="Тумба" style="verticalLabelPosition=middle;html=1;verticalAlign=middle;align=center;shape=mxgraph.floorplan.table;rounded=1;shadow=0;glass=0;sketch=0;strokeWidth=1;fillColor=#e3c800;fontColor=#000000;strokeColor=#B09500;rotation=-90;labelPosition=center;" vertex="1" parent="WHgqw9ksYdn4Qy6jHKwT-37">
-          <mxGeometry x="-36" y="40" width="120" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="WHgqw9ksYdn4Qy6jHKwT-35" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=middle;align=center;shape=mxgraph.floorplan.chair;shadow=0;direction=south;rounded=1;glass=0;sketch=0;strokeWidth=1;fillColor=#e51400;fontColor=#ffffff;strokeColor=#B20000;rotation=-90;" vertex="1" parent="WHgqw9ksYdn4Qy6jHKwT-37">
-          <mxGeometry x="47" y="15" width="52" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="WHgqw9ksYdn4Qy6jHKwT-36" value="&lt;div&gt;Новый&lt;/div&gt;&lt;div&gt;комп стол&lt;/div&gt;" style="verticalLabelPosition=middle;html=1;verticalAlign=middle;align=center;shape=mxgraph.floorplan.table;rounded=1;shadow=0;glass=0;sketch=0;strokeWidth=1;fillColor=#e3c800;fontColor=#000000;strokeColor=#B09500;rotation=0;labelPosition=center;" vertex="1" parent="WHgqw9ksYdn4Qy6jHKwT-37">
-          <mxGeometry y="51" width="140" height="70" as="geometry" />
-        </mxCell>
         <mxCell id="WHgqw9ksYdn4Qy6jHKwT-32" value="" style="group" vertex="1" connectable="0" parent="bq3f7KAdfnJjP58GS2yv-7">
-          <mxGeometry x="610" y="310" width="137" height="95" as="geometry" />
+          <mxGeometry x="-60" y="-250" width="137" height="95" as="geometry" />
         </mxCell>
         <mxCell id="FplFf33kLEnZ9xWV7-50-13" value="&lt;div&gt;Новый&lt;/div&gt;&lt;div&gt;комп стол&lt;/div&gt;" style="verticalLabelPosition=middle;html=1;verticalAlign=middle;align=center;shape=mxgraph.floorplan.table;rounded=1;shadow=0;glass=0;sketch=0;strokeWidth=1;fillColor=#e3c800;fontColor=#000000;strokeColor=#B09500;rotation=-90;labelPosition=center;" parent="WHgqw9ksYdn4Qy6jHKwT-32" vertex="1">
           <mxGeometry x="88" y="46" width="72" height="26" as="geometry" />
         </mxCell>
         <mxCell id="WHgqw9ksYdn4Qy6jHKwT-30" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=middle;align=center;shape=mxgraph.floorplan.chair;shadow=0;direction=south;rounded=1;glass=0;sketch=0;strokeWidth=1;fillColor=#e51400;fontColor=#ffffff;strokeColor=#B20000;rotation=-90;" vertex="1" parent="WHgqw9ksYdn4Qy6jHKwT-32">
-          <mxGeometry x="49" y="8" width="52" height="40" as="geometry" />
+          <mxGeometry x="36" y="8" width="70" height="60" as="geometry" />
         </mxCell>
         <mxCell id="FplFf33kLEnZ9xWV7-50-12" value="&lt;div&gt;Новый&lt;/div&gt;&lt;div&gt;комп стол&lt;/div&gt;" style="verticalLabelPosition=middle;html=1;verticalAlign=middle;align=center;shape=mxgraph.floorplan.table;rounded=1;shadow=0;glass=0;sketch=0;strokeWidth=1;fillColor=#e3c800;fontColor=#000000;strokeColor=#B09500;rotation=0;labelPosition=center;" parent="WHgqw9ksYdn4Qy6jHKwT-32" vertex="1">
-          <mxGeometry y="24" width="111" height="55" as="geometry" />
+          <mxGeometry y="40" width="111" height="55" as="geometry" />
         </mxCell>
         <mxCell id="bq3f7KAdfnJjP58GS2yv-8" value="Детская&#xa;" style="swimlane;startSize=0;align=center;labelPosition=center;verticalLabelPosition=middle;verticalAlign=top;strokeWidth=10;expand=0;swimlaneFillColor=default;collapsible=0;" parent="1" vertex="1">
           <mxGeometry x="958" y="-365" width="336" height="255" as="geometry" />
@@ -371,9 +359,6 @@
         </mxCell>
         <mxCell id="FplFf33kLEnZ9xWV7-50-9" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;shape=mxgraph.floorplan.desk_corner;rounded=1;shadow=0;glass=0;sketch=0;strokeWidth=1;fillColor=#e3c800;fontColor=#000000;strokeColor=#B09500;rotation=-180;flipH=0;flipV=0;" parent="1" vertex="1">
           <mxGeometry x="520" y="-1130" width="162" height="90" as="geometry" />
-        </mxCell>
-        <mxCell id="WHgqw9ksYdn4Qy6jHKwT-38" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=middle;align=center;shape=mxgraph.floorplan.chair;shadow=0;direction=south;rounded=1;glass=0;sketch=0;strokeWidth=1;fillColor=#e51400;fontColor=#ffffff;strokeColor=#B20000;rotation=-120;" vertex="1" parent="1">
-          <mxGeometry x="450" y="-1040" width="60" height="70" as="geometry" />
         </mxCell>
         <mxCell id="tyKPnPFm-kh5y-eaX30H-66" value="Скамья" style="verticalLabelPosition=middle;html=1;verticalAlign=middle;align=center;shape=mxgraph.floorplan.couch;rounded=1;shadow=0;glass=0;sketch=0;strokeWidth=1;rotation=90;fillColor=#60a917;fontColor=#ffffff;strokeColor=#2D7600;labelPosition=center;" parent="1" vertex="1">
           <mxGeometry x="1210" y="-1010" width="95" height="60" as="geometry" />
