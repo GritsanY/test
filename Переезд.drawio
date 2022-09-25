@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-09-25T20:44:32.965Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_4) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.1 Safari/605.1.15" etag="RgJOKFwMyy2vgZLucjMg" version="20.3.6" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2022-09-25T20:45:28.113Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_4) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.1 Safari/605.1.15" etag="ceHQWrrFw-41wSWXeuuN" version="20.3.6" type="github" pages="2">
   <diagram id="sxxfvy0bNG68BdXFm14h" name="Квартира">
     <mxGraphModel dx="614" dy="541" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -134,7 +134,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="ibor_fl8Fku6ZiQpDdOs" name="Дом">
-    <mxGraphModel dx="826" dy="1710" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1066" dy="1710" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -375,6 +375,9 @@
         <mxCell id="FplFf33kLEnZ9xWV7-50-4" value="Стол-книжка" style="verticalLabelPosition=middle;html=1;verticalAlign=middle;align=center;shape=mxgraph.floorplan.table;rounded=1;shadow=0;glass=0;sketch=0;strokeWidth=1;fillColor=#e51400;fontColor=#ffffff;strokeColor=#B20000;rotation=-90;labelPosition=center;" parent="bq3f7KAdfnJjP58GS2yv-6" vertex="1">
           <mxGeometry x="260" y="58.5" width="80" height="39" as="geometry" />
         </mxCell>
+        <mxCell id="tyKPnPFm-kh5y-eaX30H-65" value="Тумба" style="verticalLabelPosition=middle;html=1;verticalAlign=middle;align=center;shape=mxgraph.floorplan.dresser;rounded=1;shadow=0;glass=0;sketch=0;strokeWidth=1;rotation=0;labelPosition=center;fillColor=#60a917;fontColor=#ffffff;strokeColor=#2D7600;" parent="bq3f7KAdfnJjP58GS2yv-6" vertex="1">
+          <mxGeometry x="281" y="138" width="38" height="32" as="geometry" />
+        </mxCell>
         <mxCell id="bq3f7KAdfnJjP58GS2yv-3" value="Кладовая" style="swimlane;startSize=0;align=center;labelPosition=center;verticalLabelPosition=middle;verticalAlign=middle;strokeWidth=10;expand=0;swimlaneFillColor=default;collapsible=0;fillStyle=solid;movable=0;resizable=0;" parent="1" vertex="1">
           <mxGeometry x="373" y="-76.25" width="256" height="173" as="geometry" />
         </mxCell>
@@ -416,15 +419,6 @@
         </mxCell>
         <mxCell id="WHgqw9ksYdn4Qy6jHKwT-19" value="" style="swimlane;startSize=0;align=center;labelPosition=center;verticalLabelPosition=middle;verticalAlign=top;strokeWidth=5;expand=0;swimlaneFillColor=default;collapsible=0;shadow=0;swimlaneLine=0;resizable=0;movable=0;" parent="1" vertex="1">
           <mxGeometry x="985" y="-395" width="101" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="tyKPnPFm-kh5y-eaX30H-65" value="Тумба" style="verticalLabelPosition=middle;html=1;verticalAlign=middle;align=center;shape=mxgraph.floorplan.dresser;rounded=1;shadow=0;glass=0;sketch=0;strokeWidth=1;rotation=-90;labelPosition=center;fillColor=#60a917;fontColor=#ffffff;strokeColor=#2D7600;" parent="1" vertex="1">
-          <mxGeometry x="622" y="-880" width="58" height="32" as="geometry" />
-        </mxCell>
-        <mxCell id="FplFf33kLEnZ9xWV7-50-9" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;shape=mxgraph.floorplan.desk_corner;rounded=1;shadow=0;glass=0;sketch=0;strokeWidth=1;fillColor=#e3c800;fontColor=#000000;strokeColor=#B09500;rotation=-180;flipH=0;flipV=0;" parent="1" vertex="1">
-          <mxGeometry x="520" y="-1130" width="162" height="90" as="geometry" />
-        </mxCell>
-        <mxCell id="tyKPnPFm-kh5y-eaX30H-66" value="Скамья" style="verticalLabelPosition=middle;html=1;verticalAlign=middle;align=center;shape=mxgraph.floorplan.couch;rounded=1;shadow=0;glass=0;sketch=0;strokeWidth=1;rotation=90;fillColor=#60a917;fontColor=#ffffff;strokeColor=#2D7600;labelPosition=center;" parent="1" vertex="1">
-          <mxGeometry x="1210" y="-1010" width="95" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
