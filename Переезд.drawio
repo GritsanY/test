@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-11-04T11:59:32.142Z" agent="5.0 (Windows)" etag="tmygcJy1gFLbFj1gVX0v" version="20.5.1" type="github" pages="4">
-  <diagram id="sxxfvy0bNG68BdXFm14h" name="Квартира">
-    <mxGraphModel dx="1206" dy="801" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+<mxfile host="app.diagrams.net" modified="2022-11-04T12:30:28.413Z" agent="5.0 (Windows)" etag="VDv5C5uDlsEIZIg_MMX5" version="20.5.1" type="github" pages="4">
+  <diagram id="sxxfvy0bNG68BdXFm14h" name="Старая квартира">
+    <mxGraphModel dx="1670" dy="942" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -133,13 +133,13 @@
       </root>
     </mxGraphModel>
   </diagram>
-  <diagram id="ibor_fl8Fku6ZiQpDdOs" name="Дом">
-    <mxGraphModel dx="1206" dy="1970" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+  <diagram id="ibor_fl8Fku6ZiQpDdOs" name="Мебель Дом">
+    <mxGraphModel dx="1723" dy="2313" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="WHgqw9ksYdn4Qy6jHKwT-15" value="" style="rounded=0;whiteSpace=wrap;html=1;comic=0;strokeWidth=1;fillColor=#787878;strokeColor=#0e8088;movable=0;expand=0;" parent="1" vertex="1">
-          <mxGeometry x="360" y="-830" width="980" height="1430" as="geometry" />
+        <mxCell id="hcRid5CP1qjQad6ldCyn-1" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.polygon;polyCoords=[[0.19,0.26],[0.19,0],[1,0],[1,0.78],[0.73,0.78],[0.73,1],[0,1],[0,0.26]];polyline=0;fillColor=#878787;movable=0;" vertex="1" parent="1">
+          <mxGeometry x="360" y="-828.5" width="980" height="1428.5" as="geometry" />
         </mxCell>
         <mxCell id="WHgqw9ksYdn4Qy6jHKwT-21" value="" style="swimlane;startSize=0;align=center;labelPosition=center;verticalLabelPosition=middle;verticalAlign=top;strokeWidth=5;expand=0;swimlaneFillColor=default;collapsible=0;shadow=0;swimlaneLine=0;rotation=90;resizable=0;movable=0;" parent="1" vertex="1">
           <mxGeometry x="1016" y="-11" width="123" height="44.75" as="geometry" />
@@ -426,13 +426,13 @@
       </root>
     </mxGraphModel>
   </diagram>
-  <diagram name="Электрика" id="EbkpsVhylNFObYMRMMOW">
-    <mxGraphModel dx="1206" dy="1970" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+  <diagram name="Электрика Дом" id="EbkpsVhylNFObYMRMMOW">
+    <mxGraphModel dx="2193" dy="2625" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="SkhiBYUvyQORvy2Gf_KX-0" />
         <mxCell id="SkhiBYUvyQORvy2Gf_KX-1" parent="SkhiBYUvyQORvy2Gf_KX-0" />
-        <mxCell id="SkhiBYUvyQORvy2Gf_KX-2" value="" style="rounded=0;whiteSpace=wrap;html=1;comic=0;strokeWidth=1;fillColor=#787878;strokeColor=#0e8088;movable=0;expand=0;" parent="SkhiBYUvyQORvy2Gf_KX-1" vertex="1">
-          <mxGeometry x="360" y="-830" width="980" height="1430" as="geometry" />
+        <mxCell id="nCbIty8xs7k2i4F4iYp4-3" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.polygon;polyCoords=[[0.19,0.26],[0.19,0],[1,0],[1,0.78],[0.73,0.78],[0.73,1],[0,1],[0,0.26]];polyline=0;fillColor=#878787;movable=0;" vertex="1" parent="SkhiBYUvyQORvy2Gf_KX-1">
+          <mxGeometry x="360" y="-828.5" width="980" height="1428.5" as="geometry" />
         </mxCell>
         <mxCell id="SkhiBYUvyQORvy2Gf_KX-3" value="" style="swimlane;startSize=0;align=center;labelPosition=center;verticalLabelPosition=middle;verticalAlign=top;strokeWidth=5;expand=0;swimlaneFillColor=default;collapsible=0;shadow=0;swimlaneLine=0;rotation=90;resizable=0;movable=0;" parent="SkhiBYUvyQORvy2Gf_KX-1" vertex="1">
           <mxGeometry x="1016" y="-11" width="123" height="44.75" as="geometry" />
@@ -768,21 +768,21 @@
           <mxGeometry x="985" y="-395" width="101" height="30" as="geometry" />
         </mxCell>
         <mxCell id="n8iMz7qS2wGvyyfJcdyW-0" value="С1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e3c800;fontColor=#000000;strokeColor=#B09500;arcSize=0;resizable=0;" vertex="1" parent="SkhiBYUvyQORvy2Gf_KX-1">
-          <mxGeometry x="1270" y="267" width="20" height="17.5" as="geometry" />
+          <mxGeometry x="1270" y="287" width="20" height="17.5" as="geometry" />
         </mxCell>
         <mxCell id="n8iMz7qS2wGvyyfJcdyW-1" value="ДД" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fa6800;fontColor=#000000;strokeColor=#C73500;arcSize=0;resizable=0;" vertex="1" parent="SkhiBYUvyQORvy2Gf_KX-1">
-          <mxGeometry x="1290" y="267" width="20" height="17.5" as="geometry" />
+          <mxGeometry x="1290" y="287" width="20" height="17.5" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
-  <diagram name="Отопление" id="6Db6AXNv5nGfHdG712ic">
-    <mxGraphModel dx="2386" dy="2515" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+  <diagram name="Отопление Дом" id="6Db6AXNv5nGfHdG712ic">
+    <mxGraphModel dx="1723" dy="2313" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="ZqK5hBsoyhOL82jIw31t-0" />
         <mxCell id="ZqK5hBsoyhOL82jIw31t-1" parent="ZqK5hBsoyhOL82jIw31t-0" />
-        <mxCell id="ZqK5hBsoyhOL82jIw31t-2" value="" style="rounded=0;whiteSpace=wrap;html=1;comic=0;strokeWidth=1;fillColor=#787878;strokeColor=#0e8088;movable=0;expand=0;" parent="ZqK5hBsoyhOL82jIw31t-1" vertex="1">
-          <mxGeometry x="360" y="-830" width="980" height="1430" as="geometry" />
+        <mxCell id="g5YriLEJDnX9TrFyuHIa-0" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.polygon;polyCoords=[[0.19,0.26],[0.19,0],[1,0],[1,0.78],[0.73,0.78],[0.73,1],[0,1],[0,0.26]];polyline=0;fillColor=#878787;movable=0;" vertex="1" parent="ZqK5hBsoyhOL82jIw31t-1">
+          <mxGeometry x="360" y="-828.5" width="980" height="1428.5" as="geometry" />
         </mxCell>
         <mxCell id="ZqK5hBsoyhOL82jIw31t-3" value="" style="swimlane;startSize=0;align=center;labelPosition=center;verticalLabelPosition=middle;verticalAlign=top;strokeWidth=5;expand=0;swimlaneFillColor=default;collapsible=0;shadow=0;swimlaneLine=0;rotation=90;resizable=0;movable=0;" parent="ZqK5hBsoyhOL82jIw31t-1" vertex="1">
           <mxGeometry x="1016" y="-11" width="123" height="44.75" as="geometry" />
@@ -976,9 +976,6 @@
         </mxCell>
         <mxCell id="ZqK5hBsoyhOL82jIw31t-105" value="" style="swimlane;startSize=0;align=center;labelPosition=center;verticalLabelPosition=middle;verticalAlign=top;strokeWidth=5;expand=0;swimlaneFillColor=default;collapsible=0;shadow=0;swimlaneLine=0;resizable=0;movable=0;" parent="ZqK5hBsoyhOL82jIw31t-1" vertex="1">
           <mxGeometry x="985" y="-395" width="101" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="y4G2CJOCvzzuJglNjS-g-6" value="" style="rounded=1;whiteSpace=wrap;html=1;glass=0;" parent="ZqK5hBsoyhOL82jIw31t-1" vertex="1">
-          <mxGeometry x="170" y="-600" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="y4G2CJOCvzzuJglNjS-g-9" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#e51400;strokeColor=#B20000;strokeWidth=7;endArrow=openThin;endFill=0;dashed=1;" parent="ZqK5hBsoyhOL82jIw31t-1" source="y4G2CJOCvzzuJglNjS-g-7" target="y4G2CJOCvzzuJglNjS-g-8" edge="1">
           <mxGeometry relative="1" as="geometry">
